@@ -7,10 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-my_array=Array.new
-my_array<<"hello"
-my_array<<"arrays!"
-my_array.last
+array<<element
 end
 
 def add_element_to_start_of_array(array, element)
