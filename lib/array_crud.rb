@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
 my_array=Array.new
-my_array<<"red"
+my_array<<"wow"
 my_array<<"arrays!"
 end
 
